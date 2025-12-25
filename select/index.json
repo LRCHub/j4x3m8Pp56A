@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "水光接天",
+  "base_artist": "NOMELON NOLEMON",
+  "createdAt": "2025-12-25T15:57:41.687619Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "水光接天",
+      "artist": "NOMELON NOLEMON",
+      "has_synced": false,
+      "path": "select/01_水光接天_NOMELON_NOLEMON.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "水光接天",
+      "artist": "NOMELON NOLEMON, ツミキ",
+      "has_synced": false,
+      "path": "select/02_水光接天_NOMELON_NOLEMON,_ツミキ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "水光接天",
+      "artist": "NOMELON NOLEMON",
+      "has_synced": false,
+      "path": "select/pl_01_水光接天_NOMELON_NOLEMON.txt"
+    }
+  ]
+}
